@@ -1,0 +1,9 @@
+OMCI (ONU Management Control Interface) adalah protokol manajemen yang digunakan untuk mengelola perangkat Optical Network Unit (ONU). OMCI digunakan dalam jaringan Passive Optical Network (PON). 
+OMCI memungkinkan operator jaringan untuk: Mengonfigurasi ONU, Memantau kinerja ONU, Mengidentifikasi dan menyelesaikan masalah ONU, Memperbarui perangkat lunak ONU. 
+OMCI beroperasi seperti DCN, seperti halnya jaringan transportasi optik. 
+OMCI memiliki beberapa fungsi, di antaranya: 
+Konfigurasi: Mengkonfigurasi ONU dengan pengaturan yang diperlukan untuk menyediakan layanan, seperti VLAN, QoS, dan keamanan
+Monitoring: Memantau kinerja ONU, seperti status alarm, tingkat sinyal, dan penggunaan bandwidth
+Troubleshooting: Mengidentifikasi dan menyelesaikan masalah dengan ONU
+Software management: Memperbarui perangkat lunak ONU
+OMCI berada pada level kontrol tingkat tinggi dari sistem GPON. Protokol ITU-TG.984.4 mendefinisikan cakupan aplikasi dan mode aplikasi protokol OMCI dalam sistem GPON. 
